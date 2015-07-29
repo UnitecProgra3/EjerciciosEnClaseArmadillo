@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1438187673 source:/home/turupawn/Clases/Progra3/UML/main.cpp
+	<iostream>
+	"Rectangulo.h"
+
+1438189253 /home/turupawn/Clases/Progra3/UML/Rectangulo.h
+
+1438104009 source:/home/turupawn/Clases/Progra3/UML/ClaseEjemplo.cpp
+	"ClaseEjemplo.h"
+
+1438104009 /home/turupawn/Clases/Progra3/UML/ClaseEjemplo.h
+
+1438189210 source:/home/turupawn/Clases/Progra3/UML/Rectangulo.cpp
+	"Rectangulo.h"
+
