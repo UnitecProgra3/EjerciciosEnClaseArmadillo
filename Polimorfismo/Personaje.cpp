@@ -2,10 +2,20 @@
 
 Personaje::Personaje()
 {
-    //ctor
+    cout<<"Constructor"<<endl;
 }
 
 Personaje::~Personaje()
 {
-    //dtor
+    cout<<"Destructor"<<endl;
+}
+
+void Personaje::logica()
+{
+    cout<<"logica"<<endl;
+}
+
+void Personaje::dibujar()
+{
+    cout<<"dibujar"<<endl;
 }

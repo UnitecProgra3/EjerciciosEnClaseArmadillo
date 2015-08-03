@@ -1,14 +1,19 @@
 #ifndef PERSONAJE_H
 #define PERSONAJE_H
 
+#include <iostream>
+
+using namespace std;
 
 class Personaje
 {
     public:
         int vida;
         int ataque;
+        void logica();
+        void dibujar();
         Personaje();
-        virtual ~Personaje();
+        ~Personaje();
     protected:
     private:
 };

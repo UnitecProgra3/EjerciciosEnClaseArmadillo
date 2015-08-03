@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1438623244 source:/home/turupawn/Clases/Progra3/Polimorfismo/main.cpp
+	<iostream>
+	"Personaje.h"
+
+1438280574 /home/turupawn/Clases/Progra3/Polimorfismo/Personaje.h
+	<iostream>
+
+1438280574 source:/home/turupawn/Clases/Progra3/Polimorfismo/Personaje.cpp
+	"Personaje.h"
+
