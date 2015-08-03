@@ -9,3 +9,13 @@ Guerrero::~Guerrero()
 {
     //dtor
 }
+
+void Guerrero::logica()
+{
+    cout<<"--Funcion logica del guerrero--"<<endl;
+}
+
+void Guerrero::dibujar()
+{
+    cout<<"Wrrraaar!"<<endl;
+}

@@ -1,11 +1,24 @@
 # depslib dependency file v1.0
-1438623244 source:/home/turupawn/Clases/Progra3/Polimorfismo/main.cpp
+1438624097 source:/home/turupawn/Clases/Progra3/Polimorfismo/main.cpp
 	<iostream>
 	"Personaje.h"
+	"Guerrero.h"
 
 1438280574 /home/turupawn/Clases/Progra3/Polimorfismo/Personaje.h
 	<iostream>
 
 1438280574 source:/home/turupawn/Clases/Progra3/Polimorfismo/Personaje.cpp
+	"Personaje.h"
+
+1438624230 source:/home/turupawn/Clases/Progra3/Polimorfismo/Guerrero.cpp
+	"Guerrero.h"
+
+1438624152 /home/turupawn/Clases/Progra3/Polimorfismo/Guerrero.h
+	"Personaje.h"
+
+1438624557 source:/home/turupawn/Clases/Progra3/Polimorfismo/Mago.cpp
+	"Mago.h"
+
+1438624521 /home/turupawn/Clases/Progra3/Polimorfismo/Mago.h
 	"Personaje.h"
 
