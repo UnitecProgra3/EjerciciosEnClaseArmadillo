@@ -2,7 +2,7 @@
 
 Mago::Mago()
 {
-    //ctor
+    tipo = "Mago";
 }
 
 Mago::~Mago()

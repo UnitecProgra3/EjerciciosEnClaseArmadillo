@@ -2,7 +2,8 @@
 
 Guerrero::Guerrero()
 {
-    //ctor
+    tipo = "Guerrero";
+    cout<<"Este es el constructor del hijo"<<endl;
 }
 
 Guerrero::~Guerrero()

@@ -10,9 +10,11 @@ class Personaje
     public:
         int vida;
         int ataque;
-        void logica();
-        void dibujar();
-        Personaje();
+        string tipo;
+        virtual void logica() = 0;
+        virtual void dibujar() = 0;
+        //Personaje();
+        //Personaje(int x);
         ~Personaje();
     protected:
     private:

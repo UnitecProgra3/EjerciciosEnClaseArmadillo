@@ -1,21 +1,16 @@
 #include "Personaje.h"
 
-Personaje::Personaje()
-{
-    cout<<"Constructor"<<endl;
-}
+//Personaje::Personaje()
+//{
+//    cout<<"Este es el constructor del padre"<<endl;
+//}
 
 Personaje::~Personaje()
 {
     cout<<"Destructor"<<endl;
 }
 
-void Personaje::logica()
-{
-    cout<<"logica"<<endl;
-}
-
-void Personaje::dibujar()
-{
-    cout<<"dibujar"<<endl;
-}
+//Personaje::Personaje(int x)
+//{
+//    cout<<"Este es otro constructor"<<endl;
+//}
