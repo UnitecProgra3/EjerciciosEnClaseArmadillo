@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440021489 source:/home/turupawn/Clases/Progra3/Repaso/main.cpp
+	<iostream>
+	<list>
+	<fstream>
+
